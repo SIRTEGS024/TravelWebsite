@@ -1,0 +1,89 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: white;
+}
+   
+    .header {
+      padding: 30px;
+      font-size: 40px;
+      text-align: center;;
+      
+      
+    }
+
+h2{
+    color: rgb(42, 59, 59);
+
+}
+
+.h1{
+color: blue;
+}
+
+h3{
+    color: white;
+}
+
+
+h1{
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+      
+}
+.h2{
+    word-spacing: 30px;
+    color: green;
+}
+a{
+    color: rgb(30, 30, 44);
+    text-decoration: none;
+}
+.hed{
+    background-color: rgb(15, 15, 51);
+}
+img{
+    width: auto;
+    float: right;
+}
+h1{
+    font-size: 89px;
+    color: white;
+}
+.card{
+    background-color: rgb(12, 12, 37);
+    height: 600px;
+    width: 1300px;
+}
+p{
+    color: burlywood;
+}
+h5{
+    font-size: 40px;
+}
+.ddd{
+    color: blue;
+}
+.rss{
+    word-spacing: 178px;
+    font-size: 40px;
+}
+.lll{
+    color: blue;
+}
+.jjj{
+    color: blue;
+}
+.ccc{
+    color: blue;
+}
+.xxx{
+    color: blue;
+}
+.vvv{
+    color: blue;
+}
+
+
+
