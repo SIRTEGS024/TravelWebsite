@@ -1,0 +1,34 @@
+.card{
+    background-color: skyblue;
+    height: 600px;
+    width: 1300px;
+}
+img{
+    width: auto;
+    float: left;
+}
+h2{
+    font-size: 70px;
+}
+p{
+    font-size: 25px;
+}
+.footer {  
+    position: fixed;  
+    left: 10px;  
+    bottom: 5px;  
+    right: 10px;   
+    width: 95%;  
+    background-color: gray;  
+    color: white;  
+    text-align: center;  
+    }
+    .saf{
+        background-color: rgb(38, 44, 46);
+        height: 350px;
+        width: 1300px; 
+    }
+    h3{
+        color: white;
+        font-size: 20px;
+    } 

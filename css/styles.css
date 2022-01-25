@@ -1,7 +1,6 @@
 body {
     font-family: Arial;
     padding: 20px;
-    background: white;
 }
    
     .header {
@@ -84,6 +83,12 @@ h5{
 }
 .vvv{
     color: blue;
+}
+.mnb{
+    color: rgb(29, 29, 46);
+}
+.hgo{
+    color: rgb(41, 41, 66);
 }
 
 
